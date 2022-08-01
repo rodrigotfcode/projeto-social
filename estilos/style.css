@@ -13,7 +13,7 @@ html, body{
 }
 
 body{
-    background: url(../imagens/fundo-madeira.jpg);
+    background: url(../imagens/fundo2.jpg);
     background-repeat: no-repeat;
     background-position: top center;
     background-size: cover;
@@ -62,3 +62,11 @@ section#redes-sociais img:hover{
     border: 3px solid white;
     transform: translate(-3px, -3px);
 }
+
+footer p{
+    color: white;
+    text-align: center;
+    padding: 10px;
+    background-color: skyblue;
+}
+

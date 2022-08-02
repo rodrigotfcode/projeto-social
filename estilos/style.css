@@ -15,7 +15,7 @@ html, body{
 body{
     background: url(../imagens/fundo2.jpg);
     background-repeat: no-repeat;
-    background-position: top center;
+    background-position: center center;
     background-size: cover;
 }
 
